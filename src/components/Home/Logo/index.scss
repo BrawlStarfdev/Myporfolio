@@ -1,0 +1,62 @@
+.logo-container {
+  z-index: 0;
+  width: 400px;
+  height: 609px;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  right: 15%;
+  bottom: 0;
+  left: auto;
+  margin: auto;
+  animation: zoomInDown 2.5s ease-in-out 1s;
+
+  svg {
+    width: 100%;
+    height: auto;
+    bottom: 0;
+    animation-duration: 2s;
+    animation-name: changewidth;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+  svg::hover {
+    transform: scale(1.05);
+  }
+
+  .solid-logo {
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    margin: auto;
+    width: 100%;
+    opacity: 1;
+    transform: rotateZ(30deg) !important;
+    z-index: 1;
+  }
+}
+
+.logo-container:hover {
+  transform: scale(1.1);
+  transition: all 1s;
+}
+@keyframes changewidth {
+  0% {
+    transform: translateY(30vh) rotate3d(0, 1, 0, 45deg);
+  }
+
+  50% {
+    transform: translateY(30vh) rotate3d(0, 1, 0, -45deg);
+  }
+
+  100% {
+    transform: translateY(30vh) rotate3d(0, 1, 0, 0deg);
+  }
+}
+
+.svg-container {
+  stroke: #ffd700;
+  stroke-width: 10;
+}

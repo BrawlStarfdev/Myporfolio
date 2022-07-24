@@ -1,0 +1,53 @@
+.page-container-resume {
+  overflow: auto;
+  height: 90vh;
+  margin-top: 100px;
+}
+.donwloadform {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.contact-infor {
+  border: 2px dotted rgb(57, 26, 75);
+  padding: 1rem;
+  text-align: center;
+  font-size: 50px;
+}
+
+.react-pdf__Page {
+  margin-top: 100px;
+}
+.react-pdf__Page__textContent {
+  border: 1px solid darkgrey;
+  box-shadow: 5px 5px 5px 1px #ccc;
+  border-radius: 5px;
+}
+
+.react-pdf__Page__annotations.annotationLayer {
+  padding: 20px;
+}
+
+.react-pdf__Page__canvas {
+  margin: 0 auto;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(212, 47, 185);
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
