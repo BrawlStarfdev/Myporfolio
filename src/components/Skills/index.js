@@ -9,7 +9,6 @@ const Skills = () => {
 
   const skillsArray = "Skills".split("");
 
-  // setTimer for animation delay
   useEffect(() => {
     const timer = setTimeout(() => {
       setLetterClass("text-animate-hover");
