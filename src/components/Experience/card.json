@@ -16,11 +16,11 @@
     "description": "Converted expo app into React Native onet\nIntegrated OCR technology into the app for scanning business cards with Google Vision API\nUsed i18n to support multi-languages\nIdentified entities within documents with google language API\nImplemented several image animations, rotating, Cropping, drawing\nIntegrated with Salesforce, Google API, Microsoft Dynamics, Outlook\nWorked on app security in real-time, improved top minification of the code, encrypted database\nCreated IOS and Android apps and published them to Appstore and Google Play Store."
   },
   {
-    "title": "Software Engineer",
-    "timeDate": "(2020.8 - 2022.5)",
-    "companyName": "Konekta",
-    "jobType": "Permanent,Full time, Remote",
-    "location": "Sydney, Australia",
+    "title": "Software Developer",
+    "timeDate": "(2016.11 - 2017.10)",
+    "companyName": "Yingdong Science And Technology Co., Ltd",
+    "jobType": "Permanent,Full time, on-site",
+    "location": "Beijing, China",
     "description": "Developed a hybrid mobile automotive field app from scratch using React Native to provide car service (washing, repairing)\nIntegrated Alipay and WeChat pay payment into the app for achieving group purchases, card vouchers, and other activities\nImplemented pixel-perfect app based on the design provided\nCreated various components including tables and cards field up with professional and practical information of automotive field fetched from Django back-end\nHelped dashboard application development and hosting it on Aliyun web service\nDeveloped a web portal where the employee can submit their project ideas and request resources needed for the project."
   }
 ]
