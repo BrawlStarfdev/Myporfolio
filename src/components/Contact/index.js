@@ -43,7 +43,7 @@ const Contact = () => {
           <br />
           <br />
           <div className="contact_infor">
-            <p>Phone: +15812004150</p>
+            <p>Phone: +15812048350</p>
           </div>
         </div>
 
