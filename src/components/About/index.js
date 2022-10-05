@@ -46,7 +46,7 @@ const About = () => {
             I’m a Front-end Engineer who has been working in the field for five
             years. <br /> I’m passionate about creating quality products that
             meet all of the customer’s needs. <br /> Prior to this role, I
-            completed an 8 months internship, where I honed my Web and Mobile
+            completed an 6 months internship, where I honed my Web and Mobile
             software engineering. <br />
             I’m proficient in JavaScript frameworks, I feel most comfortable
             working with React, React Native as well as TypeScript. <br /> In my

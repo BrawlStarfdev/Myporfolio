@@ -31,8 +31,11 @@
 .react-pdf__Page__canvas {
   margin: 0 auto;
 }
+a {
+  transition: all 0.3s ease;
+}
 a:link {
-  color: green;
+  color: lightskyblue;
   background-color: transparent;
   text-decoration: none;
 }
@@ -42,12 +45,11 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: rgb(212, 47, 185);
+  color: rgb(7, 132, 148);
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
+  transform: scale(1.05);
 }
 a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
+  transform: translateY(10px);
 }

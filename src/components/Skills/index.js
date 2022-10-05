@@ -28,7 +28,7 @@ const Skills = () => {
             />
             <br />
           </h1>
-          <p>
+          {/* <p>
             I am comfortable with several types of coding languages <br /> I
             have the most hands-on experience working with is JavaScript.
             Because JavaScript was the first coding language I learned and I
@@ -38,10 +38,9 @@ const Skills = () => {
           <p>
             Looking for a role in a company with the opportunity to work with
             the latest technologies on challenging and diverse projects.
-          </p>
+          </p> */}
           <div className="skills-overview">
             <p>
-              Skills:
               <br /> Languages: Javascript,Typescript,C <br /> Fronted:
               React.js, React Native, Next.js,Vue.js
               <br /> Back-end: Node.js, Express.js

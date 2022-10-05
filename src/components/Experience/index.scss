@@ -18,13 +18,23 @@
 .item-container {
   display: flex;
   flex-direction: column;
-  border: 1px outset rgb(35, 61, 57);
-  padding: 10px;
-  border-radius: 20px;
-  background: #5e8571;
+  padding: 20px;
+  margin: 20px;
+  background: rgba(255, 255, 255, 0.123);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  border: 1px solid rgba(3, 92, 92, 0.589);
+  box-shadow: inset 0 0px 20px rgb(0 255 255 / 20%);
+
   .item-title-1 {
+    font-family: 'Times New Roman', Times, serif;
     display: flex;
     flex-direction: row;
+    
+    p {
+      font-weight: bold !important;
+      font-size: 17px;
+    }
     hr {
       display: block;
       margin-top: 0.5em;
@@ -123,9 +133,9 @@
   }
 
   p {
-    font-size: 17px;
+    font-size: 16px;
     color: #fff;
-    font-family: sans-serif;
+    font-family:'Courier New', Courier, monospace;
     font-weight: 300;
     max-width: fit-content;
     animation: pulse 1s;

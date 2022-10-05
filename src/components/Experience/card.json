@@ -4,8 +4,8 @@
     "timeDate": "(2021.3 - 2022.8)",
     "companyName": "PEXA",
     "jobType": "Permanent, Full time, Remote",
-    "location": "Docklands,Victoria, Australia   ",
-    "description": "Rebuilt the frontend written in Aurelia framework in React.js/Typescript\nUsed Material UI to build a mobile-responsive interface and split redux/redux-saga to handle state management\nApplied DDD approach and implemented CQRS and Event Store on the backend side\nSetup swagger to auto-generate API interface in TS types for use on the frontend side\nImplemented PDF generation functionality using Wkhtmltopdf library\nIntegrated Stripe/PayPal payment for both one-time and monthly subscription payments\nWrote •	Wrote Jest unit tests and Cypress e2e tests run these tests in the GitHub pipeline"
+    "location": "Docklands,Victoria, Australia",
+    "description": "Rebuilt the frontend written in Aurelia framework in React.js/Typescript\nUsed Material UI to build a mobile-responsive interface and split redux/redux-saga to handle state management\nApplied DDD approach and implemented CQRS and Event Store on the backend side\nSetup swagger to auto-generate API interface in TS types for use on the frontend side\nImplemented PDF generation functionality using Wkhtmltopdf library\nIntegrated Stripe/PayPal payment for both one-time and monthly subscription payments\nWrote Jest unit tests and Cypress e2e tests run these tests in the GitHub pipeline"
   },
   {
     "title": "Frontend & Mobile Developer",

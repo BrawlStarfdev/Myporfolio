@@ -72,10 +72,12 @@
   }
 }
 .education {
-  border: 1px outset rgb(35, 61, 57);
-  padding: 10px;
-  border-radius: 1rem;
-  background: #5e8571;
+  display: none;
+  // border: 1px outset rgb(35, 61, 57);
+  // padding: 10px;
+  // border-radius: 1rem;
+  // // background: rgba(255, 255, 255, 0.1);
+  // filter: drop-shadow(2px 4px 6px black)
 }
 
 @keyframes spincube {

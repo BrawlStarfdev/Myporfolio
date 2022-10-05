@@ -15,7 +15,7 @@ const Resume = () => {
       <div className="page-container-resume">
         <div className="donwloadform">
           <a href={Pdf} className="contact-infor" download={true}>
-            donwnload Resume
+            Download Resume
           </a>
         </div>
         <Document file={Pdf} onLoadSuccess={onDocumentLoadSuccess}>
