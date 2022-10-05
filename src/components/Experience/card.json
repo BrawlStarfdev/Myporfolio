@@ -1,23 +1,23 @@
 [
   {
-    "title": "Software Engineer",
-    "timeDate": "(2020.8 - 2022.5)",
-    "companyName": "Konekta Pty Ltd,",
+    "title": "Frontend Developer",
+    "timeDate": "(2021.3 - 2022.8)",
+    "companyName": "PEXA",
     "jobType": "Permanent, Full time, Remote",
-    "location": "Sydney, Australia   ",
-    "description": "Rebuilt the frontend written in Aurelia framework in React.js/Typescript\nUsed Material UI to build a mobile-responsive interface and split redux/redux-saga to handle state management\nApplied DDD approach and implemented CQRS and Event Store on the backend side\nSetup swagger to auto-generate API interface in TS types for use on the frontend side\nImplemented PDF generation functionality using Wkhtmltopdf library\nIntegrated Stripe/PayPal payment for both one-time and monthly subscription payments\nWrote Jest unit tests and Cypress e2e tests and set up the Azure pipeline to run both tests before deployment"
+    "location": "Docklands,Victoria, Australia   ",
+    "description": "Rebuilt the frontend written in Aurelia framework in React.js/Typescript\nUsed Material UI to build a mobile-responsive interface and split redux/redux-saga to handle state management\nApplied DDD approach and implemented CQRS and Event Store on the backend side\nSetup swagger to auto-generate API interface in TS types for use on the frontend side\nImplemented PDF generation functionality using Wkhtmltopdf library\nIntegrated Stripe/PayPal payment for both one-time and monthly subscription payments\nWrote •	Wrote Jest unit tests and Cypress e2e tests run these tests in the GitHub pipeline"
   },
   {
-    "title": "Frontend Engineer",
-    "timeDate": "(2018.5 - 2020.7)",
+    "title": "Frontend & Mobile Developer",
+    "timeDate": "(2019.11 - 2020.10)",
     "companyName": "Vision-e internationl Inc,",
     "jobType": "Permanent,Full time, Remote",
     "location": "Fairfield,NJ,US",
     "description": "Converted expo app into React Native onet\nIntegrated OCR technology into the app for scanning business cards with Google Vision API\nUsed i18n to support multi-languages\nIdentified entities within documents with google language API\nImplemented several image animations, rotating, Cropping, drawing\nIntegrated with Salesforce, Google API, Microsoft Dynamics, Outlook\nWorked on app security in real-time, improved top minification of the code, encrypted database\nCreated IOS and Android apps and published them to Appstore and Google Play Store."
   },
   {
-    "title": "Software Developer",
-    "timeDate": "(2016.11 - 2017.10)",
+    "title": "Frontend Developer",
+    "timeDate": "(2016.11 - 2017.4)",
     "companyName": "Yingdong Science And Technology Co., Ltd",
     "jobType": "Permanent,Full time, on-site",
     "location": "Beijing, China",
