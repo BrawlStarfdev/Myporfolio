@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Document, Page } from "react-pdf/dist/esm/entry.webpack";
-import Pdf from "../../assets/resume/Thomas_Dev.pdf";
+import Pdf from "../../assets/resume/Resume.pdf";
 import Loader from "react-loaders";
 import "./index.scss";
 
