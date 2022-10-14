@@ -1,15 +1,15 @@
 [
   {
     "title": "Frontend Developer",
-    "timeDate": "(2020.4 - 2022.8)",
+    "timeDate": "(2021.3 - 2022.9)",
     "companyName": "PEXA",
-    "jobType": "Permanent, Full time, Remote",
-    "location": "Docklands,Victoria, Australia",
-    "description": "Rebuilt the frontend written in Aurelia framework in React.js/Typescript\nUsed Material UI to build a mobile-responsive interface and split redux/redux-saga to handle state management\nApplied DDD approach and implemented CQRS and Event Store on the backend side\nSetup swagger to auto-generate API interface in TS types for use on the frontend side\nImplemented PDF generation functionality using Wkhtmltopdf library\nIntegrated Stripe/PayPal payment for both one-time and monthly subscription payments\nWrote Jest unit tests and Cypress e2e tests run these tests in the GitHub pipeline"
+    "jobType": "Contract, Full time, Remote",
+    "location": "Boston,Massachusetts,US",
+    "description": "Worked in the team to build the annotation service for the company\nUtilized the Three.js to build the 3-dimensional and 2-dimentional panels for the annotation.\nFixed performance issues by using react best principles\nTranslated the Figma mockups into mobile-responsive pages"
   },
   {
     "title": "Frontend & Mobile Developer",
-    "timeDate": "(2018.11 - 2020.2)",
+    "timeDate": "(2018.5 - 2020.7)",
     "companyName": "Vision-e internationl Inc,",
     "jobType": "Contract,Full time, Remote",
     "location": "Fairfield,NJ,US",
