@@ -1,15 +1,14 @@
 [
   {
     "title": "Frontend Developer",
-    "timeDate": "(2021.3 - 2022.8)",
-    "companyName": "PEXA",
-    "jobType": "Permanent, Full time, Remote",
-    "location": "Docklands,Victoria, Australia",
-    "description": "Rebuilt the frontend written in Aurelia framework in React.js/Typescript\nUsed Material UI to build a mobile-responsive interface and split redux/redux-saga to handle state management\nApplied DDD approach and implemented CQRS and Event Store on the backend side\nSetup swagger to auto-generate API interface in TS types for use on the frontend side\nImplemented PDF generation functionality using Wkhtmltopdf library\nIntegrated Stripe/PayPal payment for both one-time and monthly subscription payments\nWrote Jest unit tests and Cypress e2e tests run these tests in the GitHub pipeline"
-  },
+    "timeDate": "(2021.3 - 2022.9)",
+    "companyName": "MOTIONAL",
+    "jobType": "Contract,Full time, Remote",
+    "location": "Boston,Massachusetts, US",
+    "description": "Worked in the team to build the annotation service for the company \nUtilized the Three.js to build the 3-dimensional and 2-dimentional panels for the annotation.\n Fixed performance issues by using react best principles\n Translated the Figma mockups into mobile-responsive pages"},
   {
     "title": "Frontend & Mobile Developer",
-    "timeDate": "(2019.11 - 2020.10)",
+    "timeDate": "(2018.5 - 2020.7)",
     "companyName": "Vision-e internationl Inc,",
     "jobType": "Contract,Full time, Remote",
     "location": "Fairfield,NJ,US",
@@ -17,7 +16,7 @@
   },
   {
     "title": "Frontend Developer",
-    "timeDate": "(2016.11 - 2017.4)",
+    "timeDate": "(2016.11 - 2017.10)",
     "companyName": "Yingdong Science And Technology Co., Ltd",
     "jobType": "Internship, on-site",
     "location": "Beijing, China",
