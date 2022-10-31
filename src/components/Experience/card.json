@@ -1,14 +1,13 @@
 [
   {
-    "title": "Frontend Developer",
-    "timeDate": "(2021.3 - 2022.9)",
-    "companyName": "MOTIONAL",
-    "jobType": "Contract, Full time, Remote",
+    "title": "Software Engineer",
+    "timeDate": "(2020.8 - )",
+    "companyName": "Stealth Startup",
+    "jobType": "Permanent, Full time, Remote",
     "location": "Boston,Massachusetts,US",
-    "description": "Worked in the team to build the annotation service for the company\nUtilized the Three.js to build the 3-dimensional and 2-dimentional panels for the annotation.\nFixed performance issues by using react best principles\nTranslated the Figma mockups into mobile-responsive pages"
-  },
+    "description": "Developed the project's infrastructure on top of React + Node + Express + Firebase\nMade the mobile-first responsive frontend app.\nUsed the Twilio API to build the service chatbot.\nUsed the Plaid API to let subscribers connect their bank accounts.\n Added the efficient log observer modules to catch out errors."},
   {
-    "title": "Frontend & Mobile Developer",
+    "title": " Mobile Developer",
     "timeDate": "(2018.5 - 2020.7)",
     "companyName": "Vision-e internationl Inc,",
     "jobType": "Contract,Full time, Remote",
@@ -16,7 +15,7 @@
     "description": "Converted expo app into React Native onet\nIntegrated OCR technology into the app for scanning business cards with Google Vision API\nUsed i18n to support multi-languages\nIdentified entities within documents with google language API\nImplemented several image animations, rotating, Cropping, drawing\nIntegrated with Salesforce, Google API, Microsoft Dynamics, Outlook\nWorked on app security in real-time, improved top minification of the code, encrypted database\nCreated IOS and Android apps and published them to Appstore and Google Play Store."
   },
   {
-    "title": "Frontend Developer",
+    "title": "Software Developer",
     "timeDate": "(2016.11 - 2017.10)",
     "companyName": "Yingdong Science And Technology Co., Ltd",
     "jobType": "Internship, on-site",

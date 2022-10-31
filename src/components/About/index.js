@@ -43,15 +43,11 @@ const About = () => {
             Canada
           </p>
           <p>
-            I’m a Front-end Engineer who has been working in the field for five
-            years. <br /> I’m passionate about creating quality products that
-            meet all of the customer’s needs. <br /> Prior to this role, I
-            completed an 6 months internship, where I honed my Web and Mobile
-            software engineering. <br />
-            I’m proficient in JavaScript frameworks, I feel most comfortable
-            working with React, React Native as well as TypeScript. <br /> In my
-            previous role, I worked mainly with React to create applications
-            that worked across multiple platforms.
+            Thomas is a full-stack software engineer with almost two decades of
+            experience in many technologies, including React, React Native, Node
+            js, Firebase, and MongoDB. He can build and develop new concepts.
+            Thomas loves innovating and delivering incredible products and being
+            part of fabulous teams.
           </p>
           <div className="education">
             <p>Educatoin:</p>

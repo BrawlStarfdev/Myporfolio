@@ -10,7 +10,7 @@ const Home = () => {
   const [letterClass, setLetterClass] = useState("text-animate");
 
   const nameArray = "homas".split("");
-  const jobArray = "Frontend Developer".split("");
+  const jobArray = "Software Engineer".split("");
   const interestArray = "WEB & MOBILE".split("");
   const enthusiastArray = "Passionate Love".split("");
 
